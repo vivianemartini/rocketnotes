@@ -1,10 +1,10 @@
 # RocketNotes ✏️
 
-# Tecnologies
+# Technologies ⚙️
 
 - Vite
 
-# Run locally
+# Run locally 🖥️
 ```
 clone repo
 ```
