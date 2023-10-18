@@ -1,11 +1,13 @@
 import { Fragment } from 'react'
-import "./styles.css"
+import { Container } from './styles'
 
 export function Details() {
   return (
     <Fragment>
-      <h1>hello vivi</h1>
-      <p>girll</p>
+     <Container>
+        <h1>hello vivi</h1>
+        <p>hello darkness</p>
+      </Container>
     </Fragment>
   )
 }
