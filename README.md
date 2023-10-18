@@ -3,6 +3,7 @@
 # Technologies ⚙️
 
 - Vite
+- Styled Components
 
 # Run locally 🖥️
 ```
