@@ -5,6 +5,10 @@
 - Vite
 - Styled Components
 
+# Content
+
+- Arrow Function
+
 # Run locally 🖥️
 ```
 clone repo
