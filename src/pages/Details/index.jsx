@@ -8,7 +8,12 @@ export function Details() {
      <Container>
         <h1>hello vivi</h1>
         <p>hello darkness</p>
-        <Button />
+
+        <Button title="Login" loading/>
+
+        <Button title="cadastrar"/>
+
+        <Button title="fechar"/>
 
       </Container>
     </Fragment>
