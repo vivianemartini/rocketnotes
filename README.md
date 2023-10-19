@@ -1,5 +1,7 @@
 # RocketNotes ✏️
 
+- Intro into react
+
 # Technologies ⚙️
 
 - Vite
@@ -8,6 +10,7 @@
 # Content
 
 - Arrow Function
+- Components
 
 # Run locally 🖥️
 ```
