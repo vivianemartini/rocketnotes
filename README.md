@@ -7,10 +7,11 @@
 - Vite
 - Styled Components
 
-# Content
+# Content covered
 
 - Arrow Function
 - Components
+- React Icons
 
 # Run locally 🖥️
 ```
