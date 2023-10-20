@@ -1,19 +1,29 @@
 import { Fragment } from 'react'
-import { Container } from './styles'
+import { Container, Links } from './styles'
+
 import { Button } from '../../components/Button'
+import { Header } from '../../components/Header'
+import { Section} from '../../components/Section'
 
 export function Details() {
   return (
     <Fragment>
      <Container>
-        <h1>hello vivi</h1>
-        <p>hello darkness</p>
+        <Header />
 
-        <Button title="Login" loading/>
+        <Section title="Links Utéis">
+        {/* Children passa no meio do componente não como propriedade */}
+          <Links>
+              <li>
+                <a href="https://www.rocketseat.com.br/">https://www.rocketseat.com.br/</a>
+              </li>
+              <li>
+                <a href="https://www.rocketseat.com.br/">https://www.rocketseat.com.br/</a>
+              </li>
+          </Links>
+        </Section>
 
-        <Button title="cadastrar"/>
-
-        <Button title="fechar"/>
+        <Button title="Voltar"/>
 
       </Container>
     </Fragment>
