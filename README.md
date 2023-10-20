@@ -12,6 +12,7 @@
 - Arrow Function
 - Components
 - React Icons
+- Children
 
 # Run locally 🖥️
 ```
