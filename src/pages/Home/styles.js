@@ -53,7 +53,7 @@ export const Content  = styled.div`
   grid-area: content;
 
   padding: 0 64px;
-  overflow-y: scroll;
+  overflow-y: auto;
 
 `
 export const NewNote  = styled.button`
