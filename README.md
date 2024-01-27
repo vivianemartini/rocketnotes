@@ -13,6 +13,7 @@
 - Components
 - React Icons
 - Children
+- Map
 
 # Run locally 🖥️
 ```
