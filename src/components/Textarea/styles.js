@@ -13,7 +13,7 @@ export const Container = styled.textarea`
     border-radius: 10px;
     padding: 16px;
 
-    ::placeholder {
+    &::placeholder {
         color:  ${({ theme }) => theme.COLORS.GRAY_300};
     }
 `;
